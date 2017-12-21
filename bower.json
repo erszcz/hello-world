@@ -8,6 +8,7 @@
   ],
   "dependencies": {
     "purescript-console": "https://github.com/purerl/purescript-console.git#master",
-    "purescript-prelude": "https://github.com/purerl/purescript-prelude.git#master"
+    "purescript-prelude": "https://github.com/purerl/purescript-prelude.git#master",
+    "purescript-erl-process": "https://github.com/purerl/purescript-erl-process.git#master"
   }
 }
