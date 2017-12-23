@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "purescript-console": "purerl/purescript-console#master",
+    "purescript-eff": "purescript/purescript-eff#^3.0.0",
+    "purescript-erl-process": "purerl/purescript-erl-process#master",
+    "purescript-prelude": "purescript/purescript-prelude#^3.0.0"
+  },
+  "engines": {
+    "yarn": ">= 1.0.0"
+  }
+}
