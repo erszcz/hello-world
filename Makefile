@@ -1,6 +1,6 @@
 .PHONY: ps erl all run
 
-PURS := /Users/erszcz/work/purerl/purescript/.stack-work/install/x86_64-osx/lts-8.5/8.0.2/bin/purs
+PURS := /home/erszcz/work/purerl/purescript/.stack-work/install/x86_64-linux/lts-8.5/8.0.2/bin/purs
 
 all: ps erl
 
